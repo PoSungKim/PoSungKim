@@ -12,6 +12,10 @@
     <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&layout=compact" />
   </a>
 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+  </a>
+
 </div>
 
 <!--
