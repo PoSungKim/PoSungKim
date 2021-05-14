@@ -11,8 +11,11 @@
   <a href="https://github.com/PoSungKim?tab=repositories">
     <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&layout=compact" />
   </a>
+  
+  <br>
+  <br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/PoSungKim?tab=repositories">
     <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
   </a>
 
