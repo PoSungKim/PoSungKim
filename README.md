@@ -1,10 +1,9 @@
 ### Hi there 👋
+<div align="center">
+  
+  [![PoSung's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoSungKim)](https://github.com/PoSungKim?tab=repositories) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPoSungKim%2Fhit-counter&count_bg=%230A0B0A&title_bg=%23E10E0E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![PoSung's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoSungKim)](https://github.com/PoSungKim?tab=repositories)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPoSungKim%2Fhit-counter&count_bg=%230A0B0A&title_bg=%23E10E0E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+</div>
 <!--
 **PoSungKim/PoSungKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
