@@ -2,13 +2,13 @@
 
 <div align="center">
   <a href="https://github.com/PoSungKim?tab=repositories">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=PoSungKim" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=PoSungKim" />
   </a>
 
   <br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&layout=compact" />
+  <a href="https://github.com/PoSungKim?tab=repositories">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&layout=compact" />
   </a>
 
 </div>
