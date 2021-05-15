@@ -16,7 +16,7 @@
   <br>
 
   <a href="https://github.com/PoSungKim?tab=repositories">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=PoSungKim" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=PoSungKim&layout=compact&v=2" />
   </a>
   
 
