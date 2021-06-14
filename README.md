@@ -3,7 +3,7 @@ Github 계정
 2. [대외 협업용 계정](https://github.com/bene-bean)
 
 Velog 블로그
-1. [개인 개발자 노트](https://velog.io/@benebean)
+1. [개인 개발자 일기](https://velog.io/@benebean)
 
 <br>
 
