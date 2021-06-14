@@ -1,6 +1,9 @@
 Github 계정 
 1. [개인 공부용 계정](https://github.com/PoSungKim)
-2. [협업용 계정](https://github.com/bene-bean)
+2. [대외 협업용 계정](https://github.com/bene-bean)
+
+Velog 블로그
+1. [개인 개발자 노트](https://velog.io/@benebean)
 
 <br>
 
