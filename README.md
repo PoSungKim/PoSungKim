@@ -17,13 +17,14 @@
 <br>
 
 ## Languages and Tools
-
+<div>
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+</div>
 <img align="left" alt="Java" width="45px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
 <img align="left" alt="Spring Boot" width="45px" src="https://user-images.githubusercontent.com/37537227/122939235-6d82f000-d3ae-11eb-99d5-c3fe42531d1d.png" />
 
@@ -38,7 +39,7 @@
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
-<br><br><br><br>
+<br><br>
 
 ## Github & Velog Accounts
 1. [개인 공부용 Github 계정](https://github.com/PoSungKim)
