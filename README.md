@@ -1,11 +1,13 @@
 <br>
 
 ## Career
+
 1. 🦁 신한은행 ICT 정보개발부 | 2021.01.11 ~ 
 
 <br>
 
 ## Activity
+
 1. 🦁 멋쟁이사자처럼 활동 | 2018.03~2019.03
 2. 🦁 멋쟁이사자처럼x한국정보화진흥원 아이디어톤 상위 3팀 선정 | 2018.07.27
 3. 🦁 고려대x강남대 멋쟁이사자처럼 해커톤 2위 선정 | 2018.08.06
@@ -39,6 +41,17 @@
   <img alt="Jenkins" height="60px" src="https://user-images.githubusercontent.com/37537227/122938542-d0c05280-d3ad-11eb-9643-824a0c81974c.png" />
   <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </div>
+
+<br>
+
+## Certificate 
+
+1. SQLD | 2020.06.30
+2. 정보처리기사 | 2020.08.28
+3. ADsP | 2020.09.29
+4. DAsP | 2021.07.02
+5. TOEIC | 2020.08.16
+6. TOEIC Speaking Test | 2020.02.26
 
 <br>
 
