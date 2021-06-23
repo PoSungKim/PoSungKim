@@ -46,9 +46,9 @@
 
 ## Certificate 
 
-1. ✨ TOEIC Speaking Test | 2020.02.26
+1. ✨ TOEIC Speaking Test Level8 | 2020.02.26
 2. ✨ SQLD | 2020.06.30
-3. ✨ TOEIC | 2020.08.16
+3. ✨ TOEIC 980 | 2020.08.16
 4. ✨ 정보처리기사 | 2020.08.28
 5. ✨ ADsP | 2021.04.09
 6. ✨ DAsP | 2021.07.02
