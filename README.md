@@ -70,7 +70,7 @@
 
 <div align="right">
   
-  [개인 공부용 Github ✓](https://github.com/PoSungKim) | [대외 협업용 Github ✓](https://github.com/bene-bean) | [개인 개발자 Velog ✓](https://velog.io/@benebean)
+  | [개인 공부용 Github ✓](https://github.com/PoSungKim) | [대외 협업용 Github ✓](https://github.com/bene-bean) | [개인 개발자 Velog ✓](https://velog.io/@benebean) |
 
 </div>
 
