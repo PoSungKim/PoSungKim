@@ -2,7 +2,7 @@
 
 ## Career
 * 💼 LG CNS 『IT core 인재 아카데미』 | 인턴십 | 2020.01.06~2020.02.14
-  * VM | Docker | AWS | Spring
+  * SW Architecture | Apache | Tomcat | VM | Docker | AWS | Spring
 * 🏦 신한은행 ICT 정보개발부 | 정규직 | 2021.01.11 ~ 
   * Business Intelligence (BI) | Tableau | JS | C | Oracle, Teradata, Vertica | Shell Script | Batch
 
