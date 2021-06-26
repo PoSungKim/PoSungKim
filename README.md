@@ -1,8 +1,10 @@
 <br>
 
 ## Career
-
-* 🏦 신한은행 ICT 정보개발부 | 2021.01.11 ~ 
+* 💼 LG CNS 『IT core 인재 아카데미』 | 인턴십 | 2020.01.06~2020.02.14
+  * VM | Docker | AWS | Spring
+* 🏦 신한은행 ICT 정보개발부 | 정규직 | 2021.01.11 ~ 
+  * Business Intelligence (BI) | Tableau | JS | C | Oracle, Teradata, Vertica | Shell Script | Batch
 
 
 <br>
@@ -15,7 +17,6 @@
 * 💻 2018 파이빌 프로젝트 입주 팀 | 2018.10.10~2019.04.06
 * 💡 제21회 캠퍼스CEO창업경진대회 4위 선정 | 2018.12.21
 * 🌱 기아차X그린카 SEED SCHOOL for Challenger 2기 | 2019.01.03~2019.04.04
-* 💼 LG CNS 『IT core 인재 아카데미』 인턴십 | 2020.01.06~2020.02.14
 
 <br>
 
