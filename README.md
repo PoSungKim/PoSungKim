@@ -42,7 +42,7 @@
   <img alt="Docker" width="70px" src="https://user-images.githubusercontent.com/37537227/122938286-95258880-d3ad-11eb-8789-df5009ef97e7.png" />
   <img alt="Jenkins" height="60px" src="https://user-images.githubusercontent.com/37537227/122938542-d0c05280-d3ad-11eb-9643-824a0c81974c.png" />
   <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img alt="Tableau" height="60px" src="https://user-images.githubusercontent.com/37537227/125379658-e1bc1c80-e3cb-11eb-8e23-09dcccba3708.png" />
+  <img alt="Tableau" width="60px" src="https://user-images.githubusercontent.com/37537227/125379658-e1bc1c80-e3cb-11eb-8e23-09dcccba3708.png" />
 </div>
 
 <br>
