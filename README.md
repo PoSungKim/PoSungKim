@@ -37,7 +37,7 @@
 <div align="left">
   <img alt="C++" width="60px" src="https://user-images.githubusercontent.com/37537227/122935026-f8fa8200-d3aa-11eb-89f4-98d6ba2d11ce.png" />
   <img alt="Python" width="60px" src="https://user-images.githubusercontent.com/37537227/122935804-9a81d380-d3ab-11eb-83fb-c8618f45c3e2.png" />
-  <img alt="Oracle" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  <img alt="Oracle" width="60px" src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
   <img alt="Linux" width="70px" src="https://user-images.githubusercontent.com/37537227/122936121-dfa60580-d3ab-11eb-8d3a-fb00bdd8010d.png" />
   <img alt="Docker" width="70px" src="https://user-images.githubusercontent.com/37537227/122938286-95258880-d3ad-11eb-8789-df5009ef97e7.png" />
   <img alt="Jenkins" height="60px" src="https://user-images.githubusercontent.com/37537227/122938542-d0c05280-d3ad-11eb-9643-824a0c81974c.png" />
