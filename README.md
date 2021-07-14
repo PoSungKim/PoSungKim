@@ -26,7 +26,7 @@
   <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img alt="Sass" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="TypeScript" width="60px" src="https://user-images.githubusercontent.com/37537227/125546146-56395973-d409-44b7-b693-7082a5d1a15b.png" />
   <img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
   <img alt="Java" width="60px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
   <img alt="Spring Boot" width="60px" src="https://user-images.githubusercontent.com/37537227/122939235-6d82f000-d3ae-11eb-99d5-c3fe42531d1d.png" />
