@@ -5,7 +5,7 @@
   * SW Architecture | Apache | Tomcat | VM | Docker | AWS | CI/CD | Jenkins | Spring Boot | CentOS
 * 🏦 신한은행 ICT | 정규직 | 2021.01.11 ~ 
   * ~ 2021.07.16 | Business Intelligence (BI) | Tableau | JS | Pro*C | Oracle, Teradata, Vertica | Linux | Vi | Shell Script | Batch
-  * ~ | Big Data Platform | 플랫폼 기획/설계/개발 | ETL | 외부데이터 | Hadoop | Spark | Yarn | 
+  * ~ | Big Data Platform | 플랫폼 기획/설계/개발 | ETL | 외부데이터 | Hadoop, HDFS, MapReduce | Spark | Yarn | 
 
 <br>
 
