@@ -50,12 +50,17 @@
 
 ## Certificate 
 
-* ✨ TOEIC Speaking Test Level8 | 2020.02.26
-* ✨ SQLD | 2020.06.30
-* ✨ TOEIC 980 | 2020.08.16
-* ✨ 정보처리기사 | 2020.08.28
-* ✨ ADsP | 2021.04.09
 * ✨ KBI 금융 DT 테스트 Green | 2021.07.09
+* ✨ ADsP | 2021.04.09
+* ✨ 정보처리기사 | 2020.08.28
+* ✨ TOEIC 980 | 2020.08.16
+* ✨ SQLD | 2020.06.30
+* ✨ TOEIC Speaking Test Level8 | 2020.02.26
+
+
+
+
+
 <!-- * ✨ DAsP | 2021.07.02 -->
 
 <br>
