@@ -2,8 +2,8 @@
 
 ## Career
 * 🏦 신한은행 ICT | 정규직 | 
-  * 2021.07.19 ~ | Big Data Platform | Hadoop ETL | 외부데이터 수집 | Cloudera | HDFS, MapReduce | Yarn | Impala, Hive | Spark, Spark Streaming | Kudu | Kafka | NiFi | Oozie
-  * 2021.01.11 ~ 2021.07.16 | Business Intelligence (BI) | Tableau | JS | Pro*C | Oracle, Teradata, Vertica | Linux | Vi | Shell Script | Batch
+  * 2021.07.19 ~ | Big Data Platform | Hadoop ETL, 외부데이터 수집, 배치 자동화 | Cloudera | HDFS, MapReduce | Yarn | Impala, Hive | Spark, Spark Streaming | Kudu | Kafka | NiFi | Oozie
+  * 2021.01.11 ~ 2021.07.16 | Business Intelligence (BI) | Tableau | JS | Pro*C | Oracle, Teradata, Vertica | Linux | Vi | Shell Script
 
 * 💼 LG CNS 『IT Core 인재 아카데미』 | 인턴 |
   * 2020.01.06~2020.02.14 | SW Architect | Apache | Tomcat | VM | Docker | AWS | CI/CD | Jenkins | Spring Boot | CentOS
