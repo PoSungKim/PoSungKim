@@ -75,8 +75,9 @@
   </span>
   
   <a href="https://github.com/PoSungKim?tab=repositories">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&theme=highcontrast&show_icons=true" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&layout=compact&theme=highcontrast&show_icons=true" />
   </a>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&langs_count=8)](https://github.com/PoSungKim)
 </div>
 
 <br>
