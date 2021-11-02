@@ -71,13 +71,9 @@
 ## Statistics
 <div align="center" >
   <span width="200px">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=PoSungKim&theme=highcontrast&show_icons=true" />
+     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=posungkim&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" />
   </span>
-  
-  <a href="https://github.com/PoSungKim?tab=repositories">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&layout=compact&theme=highcontrast&show_icons=true" />
-  </a>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&langs_count=8)](https://github.com/PoSungKim)
+     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=posungkim&count_private=true&show_icons=true&theme=highcontrast" />
 </div>
 
 <br>
