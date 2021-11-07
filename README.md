@@ -27,26 +27,32 @@
 ## Languages and Tools
 <div align="left">
   <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img alt="Sass" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img alt="TypeScript" width="60px" src="https://user-images.githubusercontent.com/37537227/125546146-56395973-d409-44b7-b693-7082a5d1a15b.png" />
   <img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-  <img alt="Java" width="60px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
-  <img alt="Spring Boot" width="60px" src="https://user-images.githubusercontent.com/37537227/122939235-6d82f000-d3ae-11eb-99d5-c3fe42531d1d.png" />
+  <img alt="TypeScript" width="60px" src="https://user-images.githubusercontent.com/37537227/125546146-56395973-d409-44b7-b693-7082a5d1a15b.png" />
+  <img alt="Redux" width="60px" src="https://user-images.githubusercontent.com/37537227/140634081-feeffc10-b920-424b-9c05-f7d03d8cb9ff.png" />
+  <img alt="Redux-saga" height="60px" src="https://user-images.githubusercontent.com/37537227/140634100-73f43e32-dbe8-46d3-8f6b-5332998e842a.png" />
 </div>
 
 <br>
 
 <div align="left">
-  <img alt="C++" width="60px" src="https://user-images.githubusercontent.com/37537227/122935026-f8fa8200-d3aa-11eb-89f4-98d6ba2d11ce.png" />
-  <img alt="Python" width="60px" src="https://user-images.githubusercontent.com/37537227/122935804-9a81d380-d3ab-11eb-83fb-c8618f45c3e2.png" />
-  <img alt="Oracle" width="60px" src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
-  <img alt="Linux" width="60px" src="https://user-images.githubusercontent.com/37537227/122936121-dfa60580-d3ab-11eb-8d3a-fb00bdd8010d.png" />
-  <img alt="Docker" width="60px" src="https://user-images.githubusercontent.com/37537227/122938286-95258880-d3ad-11eb-8789-df5009ef97e7.png" />
-  <img alt="Jenkins" width="60px" src="https://user-images.githubusercontent.com/37537227/122938542-d0c05280-d3ad-11eb-9643-824a0c81974c.png" />
-  <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img alt="Intellij" width="60px" src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
+  <img alt="Spring Boot" width="60px" src="https://user-images.githubusercontent.com/37537227/122939235-6d82f000-d3ae-11eb-99d5-c3fe42531d1d.png" />
+  <img alt="Java" width="60px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
+  <img alt="Scala" width="60px" src="https://user-images.githubusercontent.com/37537227/140634146-7badf6b4-fdd3-4dde-9cfb-bae877c0f977.png" />
+  <img alt="Hadoop" width="60px" src="https://user-images.githubusercontent.com/37537227/140634198-843fef0c-2a10-4bc6-95ee-deb6036aac7d.png" /> 
+  <img alt="Hadoop" width="60px" src="https://user-images.githubusercontent.com/37537227/140634248-64251a2d-106e-4c10-a660-6dd2969c78de.png" />
+
+</div>
+
+<br>
+
+<div align="left">
+  <img alt="Docker"  height="60px" src="https://user-images.githubusercontent.com/37537227/122938286-95258880-d3ad-11eb-8789-df5009ef97e7.png" />
+  <img alt="Jenkins" height="60px" src="https://user-images.githubusercontent.com/37537227/122938542-d0c05280-d3ad-11eb-9643-824a0c81974c.png" />
   <img alt="Tableau" width="60px" src="https://user-images.githubusercontent.com/37537227/125379658-e1bc1c80-e3cb-11eb-8e23-09dcccba3708.png" />
+  <img alt="Oracle"  width="60px" src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
+  <img alt="Linux"   height="60px" src="https://user-images.githubusercontent.com/37537227/122936121-dfa60580-d3ab-11eb-8d3a-fb00bdd8010d.png" />
 </div>
 
 <br>
