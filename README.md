@@ -27,22 +27,29 @@
 ## Languages and Tools
 <div align="left">
   <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-  <img alt="TypeScript" width="60px" src="https://user-images.githubusercontent.com/37537227/125546146-56395973-d409-44b7-b693-7082a5d1a15b.png" />
-  <img alt="Redux" width="60px" src="https://user-images.githubusercontent.com/37537227/140634081-feeffc10-b920-424b-9c05-f7d03d8cb9ff.png" />
-  <img alt="Redux-saga" height="60px" src="https://user-images.githubusercontent.com/37537227/140634100-73f43e32-dbe8-46d3-8f6b-5332998e842a.png" />
+  <img alt="TypeScript"         width="60px" src="https://user-images.githubusercontent.com/37537227/125546146-56395973-d409-44b7-b693-7082a5d1a15b.png" />
+  <img alt="React"              width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+  <img alt="Redux"              width="60px" src="https://user-images.githubusercontent.com/37537227/140634081-feeffc10-b920-424b-9c05-f7d03d8cb9ff.png" />
+  <img alt="Redux-saga"         height="60px" src="https://user-images.githubusercontent.com/37537227/140634100-73f43e32-dbe8-46d3-8f6b-5332998e842a.png" />
 </div>
 
 <br>
 
 <div align="left">
-  <img alt="Intellij" width="60px" src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
-  <img alt="Spring Boot" width="60px" src="https://user-images.githubusercontent.com/37537227/122939235-6d82f000-d3ae-11eb-99d5-c3fe42531d1d.png" />
-  <img alt="Java" width="60px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
-  <img alt="Scala" width="60px" src="https://user-images.githubusercontent.com/37537227/140634146-7badf6b4-fdd3-4dde-9cfb-bae877c0f977.png" />
-  <img alt="Hadoop" width="60px" src="https://user-images.githubusercontent.com/37537227/140634198-843fef0c-2a10-4bc6-95ee-deb6036aac7d.png" /> 
-  <img alt="Hadoop" width="60px" src="https://user-images.githubusercontent.com/37537227/140634248-64251a2d-106e-4c10-a660-6dd2969c78de.png" />
+  <img alt="Intellij"    width="60px" src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
+  <img alt="Java"        width="60px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
+  <img alt="Spring Boot" width="60px" src="https://user-images.githubusercontent.com/37537227/146185966-13513bd6-cd54-4300-8613-ae673d4d649b.png" />
+</div>
 
+<br>
+
+<div align="left">
+  <img alt="Intellij"    width="60px" src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
+  <img alt="Scala"       width="60px" src="https://user-images.githubusercontent.com/37537227/140634146-7badf6b4-fdd3-4dde-9cfb-bae877c0f977.png" />
+  <img alt="Hadoop"      width="60px" src="https://user-images.githubusercontent.com/37537227/140634198-843fef0c-2a10-4bc6-95ee-deb6036aac7d.png" /> 
+  <img alt="Spark"       width="60px" src="https://user-images.githubusercontent.com/37537227/146186087-0bbacfdc-c741-4086-975c-4d741ec94e52.png" />
+  <img alt="Kafka"       height="60px" src="https://user-images.githubusercontent.com/37537227/146186269-87624d4a-0d6a-4c67-b61f-36e81c4c6ebe.png" />
+  <img alt="Zookeeper"   height="60px" src="https://user-images.githubusercontent.com/37537227/146186864-673e11a7-a3a8-49e7-94ac-fc50114034e7.png" />
 </div>
 
 <br>
