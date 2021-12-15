@@ -47,7 +47,8 @@
   <img alt="Intellij"    width="60px"  src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
   <img alt="Scala"       width="60px"  src="https://user-images.githubusercontent.com/37537227/140634146-7badf6b4-fdd3-4dde-9cfb-bae877c0f977.png" />
   <img alt="Hadoop"      width="60px"  src="https://user-images.githubusercontent.com/37537227/140634198-843fef0c-2a10-4bc6-95ee-deb6036aac7d.png" />
-  
+  <img alt="Hive"        width="60px"  src="https://user-images.githubusercontent.com/37537227/146187854-fed8ed6c-0e7f-4a43-b95a-4fd711d157fd.png" />
+  <img alt="Impala"      width="60px"  src="https://user-images.githubusercontent.com/37537227/146187981-65734975-cc45-4a25-ac8f-903c6b86faaa.png" />
   <img alt="Spark"       width="60px"  src="https://user-images.githubusercontent.com/37537227/146187631-85b58c56-c0cd-456a-899f-73692c636d8d.png" />
   <img alt="Kafka"       height="60px" src="https://user-images.githubusercontent.com/37537227/146186269-87624d4a-0d6a-4c67-b61f-36e81c4c6ebe.png" />
   <img alt="Zookeeper"   height="60px" src="https://user-images.githubusercontent.com/37537227/146186864-673e11a7-a3a8-49e7-94ac-fc50114034e7.png" />
