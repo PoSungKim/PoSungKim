@@ -71,6 +71,13 @@
 
 <br>
 
+<div align="left">  
+  <img alt="AWS EC2" width="60px"  src="https://user-images.githubusercontent.com/37537227/146188770-e99277b0-e092-4e72-afd9-159386b81b06.png" />
+  <img alt="AWS S3"  width="60px" src="https://user-images.githubusercontent.com/37537227/146188865-789e8bdb-3ce0-4a54-ae06-5c1981dc9839.png" />
+</div>
+
+<br>
+
 ## Certificate 
 
 * ✨ KBI 금융 DT 테스트 Green | 2021.07.09
