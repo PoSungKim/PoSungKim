@@ -81,7 +81,7 @@
 * ✨ 정보처리기사 | 2020.08.28
 * ✨ TOEIC 980 | 2020.08.16
 * ✨ SQLD | 2020.06.30
-* ✨ TOEIC Speaking Test Level8 | 2020.02.26
+* ✨ TOEIC Speaking Test Level8 | 2020.02.26 (만료)
 
 
 
