@@ -1,6 +1,6 @@
 <br>
    
-## Career
+## Career 
 * 🏦 신한은행 ICT | 정규직 |  
   * 2021.07.19 ~ | Big Data Platform | Hadoop ETL, 외부데이터 수집, 배치 자동화 | React, Spring Boot | Cloudera CDH/CDP | HDFS, Ozone | MapReduce | Yarn, Zookeeper | Impala, Hive | Spark, Spark Streaming | Kudu | Kafka | NiFi | Oozie, Airflow | Python Script
   * 2021.01.11 ~ 2021.07.16 | Business Intelligence (BI) | Tableau | JS | Pro*C | Oracle, Teradata, Vertica | Linux | Shell Script 
