@@ -78,6 +78,10 @@
 <br>
 
 ## Certificate 
+* [ ] ✨ 신용위험분석사(CRA - Certified Risk Analyst)
+* [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | 
+* [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | 2022.10.22
+* [ ] ✨ DAsP | 2022.09.18
 * [X] ✨ OPIc AL | 2022.03.13
 * [X] ✨ KBI 금융 DT 테스트 Green | 2021.07.09
 * [X] ✨ ADsP | 2021.04.09
