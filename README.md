@@ -78,13 +78,13 @@
 <br>
 
 ## Certificate 
-* [ ] ✨ OPIc AL | 2022.03.13
-* ✨ KBI 금융 DT 테스트 Green | 2021.07.09
-* ✨ ADsP | 2021.04.09
-* ✨ 정보처리기사 | 2020.08.28
-* ✨ TOEIC 980 | 2020.08.16
-* ✨ SQLD | 2020.06.30
-* ✨ TOEIC Speaking Test Level8 | 2020.02.26 (만료)
+* [X] ✨ OPIc AL | 2022.03.13
+* [X] ✨ KBI 금융 DT 테스트 Green | 2021.07.09
+* [X] ✨ ADsP | 2021.04.09
+* [X] ✨ 정보처리기사 | 2020.08.28
+* [X] ✨ TOEIC 980 | 2020.08.16
+* [X] ✨ SQLD | 2020.06.30
+* [X] ✨ TOEIC Speaking Test Level8 | 2020.02.26 (만료)
 
 
 
