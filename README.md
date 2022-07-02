@@ -37,7 +37,9 @@
 <div align="left">
   <img alt="Intellij"    width="60px" src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
   <img alt="Java"        width="60px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
-  <img alt="Spring Boot" width="60px" src="https://user-images.githubusercontent.com/37537227/146185966-13513bd6-cd54-4300-8613-ae673d4d649b.png" />
+  <img alt="Spring"      width="60px" src="https://user-images.githubusercontent.com/37537227/146185966-13513bd6-cd54-4300-8613-ae673d4d649b.png" />
+  <img alt="JPA"         width="60px" src="https://user-images.githubusercontent.com/37537227/176987221-cc1e6987-45ab-46c2-8e04-b7ad2d0b4342.png" />
+  <img alt="MyBatis"     width="60px" src="https://user-images.githubusercontent.com/37537227/176987244-45da56e7-b006-4ad4-99fb-4948f5397c8c.png" />
 </div>
 
 <br>
