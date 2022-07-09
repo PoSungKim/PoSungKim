@@ -79,6 +79,15 @@
 
 <br>
 
+## Infrastructure
+
+<div align="center">
+   <img alt="" width="80%" src="">
+</div>
+
+
+<br>
+
 ## Certificate 
 * [ ] ✨ 신용위험분석사(CRA - Certified Risk Analyst)
 * [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | 
