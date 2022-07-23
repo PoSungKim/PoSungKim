@@ -24,6 +24,8 @@
 <br>
 
 ## Languages and Tools
+
+### Frontend
 <div align="left">
   <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="TypeScript"         width="60px" src="https://user-images.githubusercontent.com/37537227/125546146-56395973-d409-44b7-b693-7082a5d1a15b.png" />
@@ -34,6 +36,7 @@
 
 <br>
 
+### Backend
 <div align="left">
   <img alt="Intellij"    width="60px" src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
   <img alt="Java"        width="60px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
@@ -44,6 +47,7 @@
 
 <br>
 
+### Data Engineering
 <div align="left">
   <img alt="Intellij"    width="60px"  src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
   <img alt="Scala"       width="60px"  src="https://user-images.githubusercontent.com/37537227/140634146-7badf6b4-fdd3-4dde-9cfb-bae877c0f977.png" />
@@ -58,20 +62,22 @@
   <img alt="Impala"      width="60px"  src="https://user-images.githubusercontent.com/37537227/146187981-65734975-cc45-4a25-ac8f-903c6b86faaa.png" />
   <img alt="Kafka"       height="60px" src="https://user-images.githubusercontent.com/37537227/146186269-87624d4a-0d6a-4c67-b61f-36e81c4c6ebe.png" />
   <img alt="Zookeeper"   height="60px" src="https://user-images.githubusercontent.com/37537227/146186864-673e11a7-a3a8-49e7-94ac-fc50114034e7.png" />
+  <img alt="Tableau"     width="60px"  src="https://user-images.githubusercontent.com/37537227/125379658-e1bc1c80-e3cb-11eb-8e23-09dcccba3708.png" />
 </div>
 
 <br>
 
-<div align="left">  
+### System SW/DBMS
+<div align="left">
   <img alt="Docker"  width="60px"  src="https://user-images.githubusercontent.com/37537227/146188412-fab6793f-c809-4a83-9a8c-312f31455440.png" />
   <img alt="Jenkins" height="60px" src="https://user-images.githubusercontent.com/37537227/122938542-d0c05280-d3ad-11eb-9643-824a0c81974c.png" />
-  <img alt="Tableau" width="60px"  src="https://user-images.githubusercontent.com/37537227/125379658-e1bc1c80-e3cb-11eb-8e23-09dcccba3708.png" />
   <img alt="Oracle"  width="60px"  src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
   <img alt="Linux"   height="60px" src="https://user-images.githubusercontent.com/37537227/122936121-dfa60580-d3ab-11eb-8d3a-fb00bdd8010d.png" />
 </div>
 
 <br>
 
+### Cloud
 <div align="left">  
   <img alt="AWS EC2" width="60px"  src="https://user-images.githubusercontent.com/37537227/146188770-e99277b0-e092-4e72-afd9-159386b81b06.png" />
   <img alt="AWS S3"  width="60px" src="https://user-images.githubusercontent.com/37537227/146188865-789e8bdb-3ce0-4a54-ae06-5c1981dc9839.png" />
@@ -81,6 +87,7 @@
 
 ## Infrastructure
 
+### WEB/WAS
 <div align="left">
   <img alt="Nginx"      width="60px"  src="https://user-images.githubusercontent.com/37537227/178105786-6be7d205-0b2d-4fee-a891-e2351f3b7623.png" />
   <img alt="Tomcat"     height="60px"  src="https://user-images.githubusercontent.com/37537227/178105893-44337343-38b1-47dc-9262-6d0ef80db3ac.png" />
