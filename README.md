@@ -2,7 +2,7 @@
    
 ## Career 
 * 🏦 카카오뱅크 | 정규직 |  
-  * 2022.06.07 ~ | Loan Banking API Development | 전자금융 (Electronic Banking)
+  * 2022.06.07 ~ | Loan Banking API Development | 전자금융 (Electronic Finance)
 
 * 🏦 신한은행 | 정규직 |  
   * 2021.07.19 ~ 2022.05.31 | Data Platform (Hadoop Eco) && Data Engineering | Hadoop ETL, 외부데이터 수집, 배치 자동화 | React, Spring Boot, Spring | Cloudera CDH/CDP | HDFS, Ozone | MapReduce | Yarn, Zookeeper | Impala, Hive | Spark, Spark Streaming | Kudu | Kafka | NiFi | Oozie, Airflow | Python Script
