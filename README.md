@@ -112,9 +112,6 @@
 * [X] ✨ TOEIC Speaking Test Level8 | 2020.02.26 (만료)
 
 
-
-
-
 <!-- * ✨ DAsP | 2021.07.02 -->
 
 <br>
@@ -135,8 +132,6 @@
   | [개인 공부용 Github ☑️](https://github.com/PoSungKim) | [대외 협업용 Github ☑️](https://github.com/bene-bean) | [개인 개발자 Velog ☑️](https://velog.io/@benebean) |
 
 </div>
-
-
 
 
 <!-- 
