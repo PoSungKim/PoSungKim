@@ -120,9 +120,10 @@
 
 <div align="center" >
   <span width="200px">
-     <img width="50%" src="https://github-readme-stats.vercel.app/api/?username=PoSungKim&count_private=true&theme=highcontrast&showicons=true" \>
+     <img width="30%" src="https://github-readme-stats.vercel.app/api/?username=PoSungKim&count_private=true&theme=highcontrast&showicons=true" \>
   </span>
-     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&count_private=true&show_icons=true&theme=highcontrast&layout=compact" \>
+     <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&count_private=true&show_icons=true&theme=highcontrast&layout=compact" \>
+     <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=PoSungKim&theme=highcontrast&hide_border=false" \>
 </div>
 
 
