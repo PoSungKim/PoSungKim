@@ -119,11 +119,9 @@
 ## Statistics
 
 <div align="center" >
-  <span width="200px">
      <img width="32%" src="https://github-readme-stats.vercel.app/api/?username=PoSungKim&count_private=true&theme=highcontrast&showicons=true" \>
-  </span>
-     <img width="26.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&count_private=true&show_icons=true&theme=highcontrast&layout=compact" \>
      <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=PoSungKim&theme=highcontrast&hide_border=false" \>
+     <img width="26.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoSungKim&count_private=true&show_icons=true&theme=highcontrast&layout=compact" \>
 </div>
 
 
