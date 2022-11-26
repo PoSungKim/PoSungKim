@@ -69,36 +69,6 @@
 
 <br>
 
-### System SW/DBMS
-<div align="left">
-  <img alt="Jenkins" height="60px" src="https://user-images.githubusercontent.com/37537227/122938542-d0c05280-d3ad-11eb-9643-824a0c81974c.png" />
-  <img alt="Oracle"  width="60px"  src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
-  <img alt="Linux"   height="60px" src="https://user-images.githubusercontent.com/37537227/122936121-dfa60580-d3ab-11eb-8d3a-fb00bdd8010d.png" />
-</div>
-
-<br>
-
-### Cloud
-<div align="left">  
-  <img alt="AWS EC2" width="60px"  src="https://user-images.githubusercontent.com/37537227/146188770-e99277b0-e092-4e72-afd9-159386b81b06.png" />
-  <img alt="AWS S3"  width="60px" src="https://user-images.githubusercontent.com/37537227/146188865-789e8bdb-3ce0-4a54-ae06-5c1981dc9839.png" />
-</div>
-
-<br>
-
-## Infrastructure
-
-### WEB/WAS
-<div align="left">
-  <img alt="Nginx"      width="60px"  src="https://user-images.githubusercontent.com/37537227/178105786-6be7d205-0b2d-4fee-a891-e2351f3b7623.png" />
-  <img alt="Tomcat"     height="60px"  src="https://user-images.githubusercontent.com/37537227/178105893-44337343-38b1-47dc-9262-6d0ef80db3ac.png" />
-  <img alt="Httpd"      height="60px"  src="https://user-images.githubusercontent.com/37537227/178105888-1d6b8c96-3003-4080-85b1-e67b84139994.png" />
-</div>
-
-
-
-<br>
-
 ## Certificate 
 * [ ] ✨ 신용위험분석사(CRA - Certified Risk Analyst)
 * [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | 
