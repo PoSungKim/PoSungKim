@@ -24,46 +24,40 @@
 <br>
 
 ## Languages and Tools
-
-### Frontend
-<div align="left">
-  <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="TypeScript"         width="60px" src="https://user-images.githubusercontent.com/37537227/125546146-56395973-d409-44b7-b693-7082a5d1a15b.png" />
-  <img alt="React"              width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-  <img alt="Redux"              width="60px" src="https://user-images.githubusercontent.com/37537227/140634081-feeffc10-b920-424b-9c05-f7d03d8cb9ff.png" />
-  <img alt="Redux-saga"         height="60px" src="https://user-images.githubusercontent.com/37537227/140634100-73f43e32-dbe8-46d3-8f6b-5332998e842a.png" />
-</div>
-
-<br>
-
-### Backend
-<div align="left">
-  <img alt="Intellij"    width="60px" src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
-  <img alt="Java"        width="60px" src="https://user-images.githubusercontent.com/37537227/122935492-57bffb80-d3ab-11eb-9c5f-bcaf77450711.png" />
-  <img alt="Spring"      width="60px" src="https://user-images.githubusercontent.com/37537227/146185966-13513bd6-cd54-4300-8613-ae673d4d649b.png" />
-  <img alt="JPA"         width="60px" src="https://user-images.githubusercontent.com/37537227/176987221-cc1e6987-45ab-46c2-8e04-b7ad2d0b4342.png" />
-  <img alt="MyBatis"     width="60px" src="https://user-images.githubusercontent.com/37537227/176987244-45da56e7-b006-4ad4-99fb-4948f5397c8c.png" />
-</div>
-
-<br>
-
-### Data Engineering
-<div align="left">
-  <img alt="Intellij"    width="60px"  src="https://user-images.githubusercontent.com/37537227/140634169-c30bedaa-0ff1-40f1-90f2-5dee037d7bb4.png" />
-  <img alt="Scala"       width="60px"  src="https://user-images.githubusercontent.com/37537227/140634146-7badf6b4-fdd3-4dde-9cfb-bae877c0f977.png" />
-  <img alt="Spark"       width="60px"  src="https://user-images.githubusercontent.com/37537227/146187631-85b58c56-c0cd-456a-899f-73692c636d8d.png" />
-</div>
-
-<br>
-
-<div align="left">
-  <img alt="Hadoop"      width="60px"  src="https://user-images.githubusercontent.com/37537227/140634198-843fef0c-2a10-4bc6-95ee-deb6036aac7d.png" />
-  <img alt="Hive"        width="60px"  src="https://user-images.githubusercontent.com/37537227/146187854-fed8ed6c-0e7f-4a43-b95a-4fd711d157fd.png" />
-  <img alt="Impala"      width="60px"  src="https://user-images.githubusercontent.com/37537227/146187981-65734975-cc45-4a25-ac8f-903c6b86faaa.png" />
-  <img alt="Kafka"       height="60px" src="https://user-images.githubusercontent.com/37537227/146186269-87624d4a-0d6a-4c67-b61f-36e81c4c6ebe.png" />
-  <img alt="Zookeeper"   height="60px" src="https://user-images.githubusercontent.com/37537227/146186864-673e11a7-a3a8-49e7-94ac-fc50114034e7.png" />
-  <img alt="Tableau"     width="60px"  src="https://user-images.githubusercontent.com/37537227/125379658-e1bc1c80-e3cb-11eb-8e23-09dcccba3708.png" />
-</div>
+- Backend : 
+<span><img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=white"/></span>
+- Frontend : 
+<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Saga-89d96d?style=flat&logo=redux-saga&logoColor=white"/></span>
+- Data Engineering :
+<span><img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Apache Spark-FA6423?style=flat&logo=ApacheSpark&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat&logo=ApacheHive&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Cloudera-F96702?style=flat&logo=Cloudera&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Cloudera Impala-2496ED?style=flat&logo=ClouderaImpala&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/></span>
+- Deployment : 
+<span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span>
+- Version Control : 
+<span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/></span>
+- Communication : 
+<span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span>
 
 <br>
 
@@ -93,6 +87,7 @@
   <img alt="Tomcat"     height="60px"  src="https://user-images.githubusercontent.com/37537227/178105893-44337343-38b1-47dc-9262-6d0ef80db3ac.png" />
   <img alt="Httpd"      height="60px"  src="https://user-images.githubusercontent.com/37537227/178105888-1d6b8c96-3003-4080-85b1-e67b84139994.png" />
 </div>
+
 
 
 <br>
