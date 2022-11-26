@@ -30,6 +30,10 @@
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=white"/></span>
+- Script :
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNUBash&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
 - Frontend : 
 <span><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
@@ -55,10 +59,6 @@
 <span><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=AWSEC2&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span>
-- Script :
-<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNUBash&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
 - Version Control : 
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
