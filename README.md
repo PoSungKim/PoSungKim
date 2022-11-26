@@ -25,11 +25,13 @@
 
 ## Languages and Tools
 - Backend : 
+<span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=white"/></span>
 - Frontend : 
+<span><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
@@ -48,9 +50,15 @@
 <span><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/></span>
 - Deployment : 
+<span><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=AWSEC2&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span>
+- Script :
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNUBash&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
 - Version Control : 
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
@@ -63,7 +71,6 @@
 
 ### System SW/DBMS
 <div align="left">
-  <img alt="Docker"  width="60px"  src="https://user-images.githubusercontent.com/37537227/146188412-fab6793f-c809-4a83-9a8c-312f31455440.png" />
   <img alt="Jenkins" height="60px" src="https://user-images.githubusercontent.com/37537227/122938542-d0c05280-d3ad-11eb-9643-824a0c81974c.png" />
   <img alt="Oracle"  width="60px"  src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
   <img alt="Linux"   height="60px" src="https://user-images.githubusercontent.com/37537227/122936121-dfa60580-d3ab-11eb-8d3a-fb00bdd8010d.png" />
