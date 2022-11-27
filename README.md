@@ -30,6 +30,9 @@
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=AmazonS3&logoColor=white"/></span>
+
 - Script :
 <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNUBash&logoColor=white"/></span>
