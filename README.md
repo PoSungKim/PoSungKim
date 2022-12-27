@@ -10,7 +10,7 @@
   * 2021.01.11 ~ 2021.07.16 | Business Intelligence (BI) | Tableau | JS | Pro*C | Oracle, Teradata, Vertica | Linux | Shell Script 
 
 * 💼 LG CNS 『IT Core 인재 아카데미』 | 인턴 |
-  * 2020.01.06~2020.02.14 | SW Architect | HTTPD | Tomcat | AWS RDS | VM | Docker | Jenkins CI/CD | Spring Boot | CentOS
+  * 2020.01.06~2020.02.14 | SW Architect | HTTPD | Tomcat | AWS EC2, RDS | VM | Docker | Jenkins CI/CD | Spring Boot | CentOS
 
 <br>
 
