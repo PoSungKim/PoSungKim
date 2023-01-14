@@ -74,11 +74,10 @@
 <br>
 
 ## Certificate 
-* [ ] ✨ 신용위험분석사(CRA - Certified Risk Analyst)
+* [ ] ✨ 신용위험분석사(CRA - Certified Risk Analyst) | TBD
 * [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | TBD
 * [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
-* [ ] 신용관리사
-* [ ] 신용위험분석사
+* [ ] ✨ 신용관리사 | TBD
 * [ ] ✨ DAsP | TBD
 * [X] ✨ KBI 은행실무기초 | 2022.10.23 (수료)
 * [X] ✨ OPIc AL | 2022.03.13
