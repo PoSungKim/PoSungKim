@@ -79,6 +79,8 @@
 * [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
 * [ ] ✨ 신용관리사 | TBD
 * [ ] ✨ DAsP | TBD
+* [ ] ✨ OCPJP | TDB
+* [ ] ✨ OCAJP | TBD
 * [X] ✨ KBI 은행실무기초 | 2022.10.23 (수료)
 * [X] ✨ OPIc AL | 2022.03.13
 * [X] ✨ KBI 금융 DT 테스트 Green | 2021.07.09
