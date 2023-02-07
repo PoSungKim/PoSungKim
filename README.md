@@ -79,6 +79,8 @@
 * [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
 * [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | TBD
 * [ ] ✨ DAsP | TBD
+* [ ] ✨ OCP | TDB
+* [ ] ✨ OCA | TBD
 * [ ] ✨ OCPJP | TDB
 * [ ] ✨ OCAJP | TBD
 * [X] ✨ KBI 은행실무기초 | 2022.10.23 (수료)
