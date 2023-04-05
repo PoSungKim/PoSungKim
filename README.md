@@ -76,8 +76,8 @@
 ## Certificate 
 * [ ] ✨ 신용관리사 | TBD
 * [ ] ✨ 신용위험분석사(CRA - Certified Risk Analyst) | TBD
-* [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
 * [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | TBD
+* [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
 * [ ] ✨ DAsP | TBD
 * [ ] ✨ OCP | TDB
 * [ ] ✨ OCA | TBD
