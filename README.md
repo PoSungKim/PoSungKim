@@ -78,7 +78,7 @@
 * [ ] ✨ 신용위험분석사(CRA - Certified Risk Analyst) | TBD
 * [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | TBD
 * [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
-* [ ] ✨ DAsP | 
+* [ ] ✨ DAsP | 2023.05.19 (예정)
 * [ ] ✨ OCP | TDB
 * [ ] ✨ OCA | TBD
 * [ ] ✨ OCPJP | TDB
