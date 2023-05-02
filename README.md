@@ -78,11 +78,11 @@
 * [ ] ✨ 신용위험분석사(CRA - Certified Risk Analyst) | TBD
 * [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | TBD
 * [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
-* [ ] ✨ DAsP | 2023.05.19 (예정)
 * [ ] ✨ OCP | TDB
 * [ ] ✨ OCA | TBD
 * [ ] ✨ OCPJP | TDB
 * [ ] ✨ OCAJP | TBD
+* [ ] ✨ DAsP | 2023.05.19 (예정)
 * [X] ✨ KBI 은행실무기초 | 2022.10.23 (수료)
 * [X] ✨ OPIc AL | 2022.03.13
 * [X] ✨ KBI 금융 DT 테스트 Green | 2021.07.09
