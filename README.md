@@ -27,7 +27,7 @@
 ## Languages and Tools
 - Backend : 
 <span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=kotlin&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat&logo=kotlin&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></span>
