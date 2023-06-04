@@ -83,6 +83,8 @@
 * [ ] ✨ OCPJP | TDB
 * [ ] ✨ OCAJP | TBD
 * [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
+* [ ] ✨ 투자자산운용사 | TBD
+* [ ] ✨ 공인중개사 | TBD
 * [X] ✨ DAsP | 2023.05.19
 * [X] ✨ KBI 은행실무기초 | 2022.10.23 (수료)
 * [X] ✨ OPIc AL | 2022.03.13
