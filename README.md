@@ -2,7 +2,7 @@
    
 ## Career 
 * 🏦 카카오뱅크 | 정규직 |  
-  * 2022.01.01 ~ | Mortgage Loan Development | Electronic Banking | Lease Banking Service | DBMS - Orange, DataGrip | APM Monitoring - Kibana, Grafana
+  * 2023.01.01 ~ | Mortgage Loan Development | Electronic Banking | Lease Banking Service | DBMS - Orange, DataGrip | APM Monitoring - Kibana, Grafana
   * 2022.06.07 ~ 2022.12.31 | Loan Banking API Development | Electronic Banking | Card/Loan Banking Service | ARS, Mobile Channel | Credit Card Service | Class Diagram, ERD - StarUML | APM Monitoring - Jeniffer, Sentry | JVM Monitoring - VisualVM
 
 * 🏦 신한은행 | 정규직 |  
