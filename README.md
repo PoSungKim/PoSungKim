@@ -80,7 +80,7 @@
 * [ ] ✨ 여신심사역(CLO - Certified Loan Officer) | TBD
 * [ ] ✨ OCP | TDB
 * [ ] ✨ OCA | TBD
-* [ ] ✨ OCPJP | TDB
+* [ ] ✨ OCPJP | TBD
 * [ ] ✨ OCAJP | TBD
 * [ ] ✨ 신용분석사(CAA - Certified Credit Analyst) | TBD
 * [ ] ✨ 투자자산운용사 | TBD
