@@ -50,6 +50,7 @@
 <span><img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Saga-89d96d?style=flat&logo=redux-saga&logoColor=white"/></span>
 - Data Engineering :
+<span><img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Apache Spark-FA6423?style=flat&logo=ApacheSpark&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=white"/></span>
